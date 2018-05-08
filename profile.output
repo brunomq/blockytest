@@ -1,0 +1,53 @@
+bruno@bruno-Z87M-D3H /usr/share/bcc/tools $ sudo ./profile -p 21842 60
+Sampling at 49 Hertz of PID 21842 by user + kernel stack for 60 secs.
+
+    __GI___pthread_mutex_unlock
+    backend_handler
+    start_thread
+    -                blocky (21842)
+        1
+
+    finish_task_switch
+    __schedule
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21842)
+        1
+
+    __GI___pthread_mutex_lock
+    backend_handler
+    start_thread
+    -                blocky (21842)
+        1
+
+    _cond_resched
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21842)
+        1
+
+    __GI___nanosleep
+    backend_handler
+    start_thread
+    -                blocky (21842)
+        1
+
+    do_work
+    request_processor
+    start_thread
+    -                blocky (21842)
+        2
+
+    do_work
+    request_processor
+    start_thread
+    -                blocky (21842)
+        3

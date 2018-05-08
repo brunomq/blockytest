@@ -1,0 +1,3724 @@
+bruno@bruno-Z87M-D3H /usr/share/bcc/tools $ sudo ./offcputime -p 21842 60
+Tracing off-CPU time (us) of PID 21842 by user + kernel stack for 60 secs.
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    backend_handler
+    start_thread
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    __lll_lock_wait
+    backend_handler
+    start_thread
+    -                blocky (21845)
+        1
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        2
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        2
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    __lll_unlock_wake
+    request_processor
+    start_thread
+    -                blocky (21843)
+        2
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        3
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        3
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        3
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        4
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        4
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        4
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        4
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        4
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        4
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        4
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        4
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        4
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        4
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        4
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        4
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        4
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        4
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        4
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        4
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        4
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        5
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        5
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        5
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        6
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        6
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        6
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        7
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        7
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        7
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        7
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        7
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        7
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        7
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        7
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        7
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        7
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        7
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    backend_handler
+    start_thread
+    -                blocky (21845)
+        8
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        8
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        8
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        8
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        8
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        8
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        8
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        8
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        9
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        9
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        9
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        9
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        9
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        9
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        9
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        9
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        10
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        10
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        10
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        10
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        10
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        10
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        10
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        13
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        14
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        17
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        17
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        18
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    syscall_return_slowpath
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        19
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        19
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        23
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    prepare_exit_to_usermode
+    retint_user
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21843)
+        23
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        26
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        27
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    prepare_exit_to_usermode
+    retint_user
+    do_work
+    request_processor
+    start_thread
+    -                blocky (21843)
+        28
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        34
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        34
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        35
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        35
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        36
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        36
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        37
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        38
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        39
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        39
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        39
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        39
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        39
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        40
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        40
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        41
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        42
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        42
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        44
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        44
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        44
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        49
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        49
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        50
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        50
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        50
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        52
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        52
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        53
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        67
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        77
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    prepare_exit_to_usermode
+    retint_user
+    do_work
+    request_processor
+    start_thread
+    -                blocky (21843)
+        208
+
+    finish_task_switch
+    _cond_resched
+    mutex_lock
+    n_tty_write
+    tty_write
+    __vfs_write
+    vfs_write
+    sys_write
+    entry_SYSCALL_64_fastpath
+    write
+    backend_handler
+    start_thread
+    -                blocky (21845)
+        220
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    prepare_exit_to_usermode
+    retint_user
+    do_work
+    request_processor
+    start_thread
+    -                blocky (21843)
+        300
+
+    finish_task_switch
+    schedule
+    exit_to_usermode_loop
+    prepare_exit_to_usermode
+    retint_user
+    do_work
+    request_processor
+    start_thread
+    -                blocky (21843)
+        814
+
+    finish_task_switch
+    schedule
+    futex_wait_queue_me
+    futex_wait
+    do_futex
+    sys_futex
+    entry_SYSCALL_64_fastpath
+    __lll_lock_wait
+    backend_handler
+    start_thread
+    -                blocky (21845)
+        36015
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        40276
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        60343
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        60472
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        80532
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        90589
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        90639
+
+    finish_task_switch
+    schedule
+    futex_wait_queue_me
+    futex_wait
+    do_futex
+    sys_futex
+    entry_SYSCALL_64_fastpath
+    __lll_lock_wait
+    [unknown]
+    -                blocky (21845)
+        139883
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        140952
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        161023
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        181298
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271514
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271518
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271520
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271562
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271707
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271709
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271710
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271717
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271731
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271754
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271757
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271761
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271763
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271768
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271796
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271797
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271800
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271807
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271816
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271816
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271831
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271837
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271845
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271849
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271851
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271861
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271869
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271872
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271874
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271882
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271886
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271886
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271903
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271907
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271917
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271928
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271936
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271938
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271940
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271947
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271952
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271967
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271971
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271982
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271989
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271990
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    [unknown]
+    [unknown]
+    [unknown]
+    [unknown]
+    [unknown]
+    [unknown]
+    -                blocky (21845)
+        271991
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271992
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271997
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        271999
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272021
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272022
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272037
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272038
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272040
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272040
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272054
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272056
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272060
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272061
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272064
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272067
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272067
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272067
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272068
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272076
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272080
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272085
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272089
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272091
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272094
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272095
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272096
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272096
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272097
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272097
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272098
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272099
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272102
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272105
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272106
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272106
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272112
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272114
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272115
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272118
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272124
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272125
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272130
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272137
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272137
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272139
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272143
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272146
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272149
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272164
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272166
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272175
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272177
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272182
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272191
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272197
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272201
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272220
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272239
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272269
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272270
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272278
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272298
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272304
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272338
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272338
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272341
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272358
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272400
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272427
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272434
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272436
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272438
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272439
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272453
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272467
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272482
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272537
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272787
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        272854
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        273186
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        273613
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        275358
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        281711
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        282070
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        282124
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        282159
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        291634
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        423554
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        543829
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        543852
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    write
+    [unknown]
+    -                blocky (21845)
+        544063
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        544150
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        544153
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        544310
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    [unknown]
+    -                blocky (21845)
+        545389
+
+    finish_task_switch
+    schedule
+    futex_wait_queue_me
+    futex_wait
+    do_futex
+    sys_futex
+    entry_SYSCALL_64_fastpath
+    __lll_lock_wait
+    [unknown]
+    -                blocky (21845)
+        1016262
+
+    finish_task_switch
+    schedule
+    do_nanosleep
+    hrtimer_nanosleep
+    sys_nanosleep
+    entry_SYSCALL_64_fastpath
+    __GI___nanosleep
+    backend_handler
+    start_thread
+    -                blocky (21845)
+        17109476
+
+    finish_task_switch
+    schedule
+    futex_wait_queue_me
+    futex_wait
+    do_futex
+    sys_futex
+    entry_SYSCALL_64_fastpath
+    __lll_lock_wait
+    request_processor
+    start_thread
+    -                blocky (21843)
+        58789005
+
+    finish_task_switch
+    schedule
+    futex_wait_queue_me
+    futex_wait
+    do_futex
+    sys_futex
+    entry_SYSCALL_64_fastpath
+    __lll_lock_wait
+    request_processor
+    start_thread
+    -                blocky (21844)
+        59977598
+
